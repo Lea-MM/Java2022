@@ -1,0 +1,5 @@
+Jar Files Needed To Run JavaFX and Database:
+
+ojdbc8.jar
+jre1.8.0_202/jfxswt.jar
+javafx-sdk-19/lib/ALLJARFILES
